@@ -61,6 +61,10 @@ const COURSES = [
         label: "YouTube Playlist",
         link: "https://www.youtube.com/watch?v=vpAxkG_W1_w&list=PL9iw99lS3Prj5VoC4Bwhmj9Wawd2r-Vtt",
       },
+      {
+        label: "solve YouTube Playlist",
+        link: "https://www.youtube.com/playlist?list=PLP4C04JGIPhRJLov89238CSlreu7ugr69&si=CTIAZVy9W-ynU9ay",
+      },
     ],
     topics: [
       "BPM Introduction",
