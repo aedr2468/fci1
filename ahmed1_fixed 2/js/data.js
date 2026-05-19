@@ -464,7 +464,8 @@ const COURSES = [
     examDate: "2026-05-25T12:00:00",
     examDuration: "12:00 PM - 2:00 PM",
     totalLectures: 5,
-    videoRef: null,
+    videoRef: 
+     "https://drive.google.com/drive/folders/1MIxCZakhXLzWrE4zNXKsV7daPwd_AV3h?usp=drive_link",
     driveMain:
       "https://drive.google.com/drive/folders/1AlCUI9tAPHF_KgQ9uHcOzrM58qPdo6vT",
     lectures: [
